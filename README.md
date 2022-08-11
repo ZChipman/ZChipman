@@ -1,5 +1,5 @@
-- My name is Zachary Chipman. I am currenlty working towards a Masters of Applied Data Science from Syracuse Univesity. 
-- Here you will find all of the projects I have worked on.
+- My name is Zachary Chipman, a business-oriented analyst with Masters of Applied Data Science from Syracuse Univesity. 
+- Here you will find some of the projects I have worked on.
 - Each one has its own repository and is open for public viewing.
 - All sources and references are cited within the projects.
 

@@ -2,6 +2,7 @@
 - Here you will find some of the projects I have worked on.
 - Each one has its own repository and is open for public viewing.
 - All sources and references are cited within the projects.
+- Feel free to email me at lanechipman@gmail.com if you have any questions.
 
 <!---
 ZChipman/ZChipman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
